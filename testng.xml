@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Parallel_testing_docker.firefox_Test_4"/>
+      <class name="Parallel_testing_docker.chrome_Test_1"/>
+      <class name="Parallel_testing_docker.chrome_Test_2"/>
+      <class name="Parallel_testing_docker.chrome_Test_3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
